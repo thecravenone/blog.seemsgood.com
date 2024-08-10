@@ -1,0 +1,4 @@
+baseURL = "https://thecravenone.githug.io/"
+title = "The Blog of Sam Craven"
+author = "Sam Craven"
+theme = 'ananke'
