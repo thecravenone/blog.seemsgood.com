@@ -5,7 +5,7 @@ categories = ["meta"]
 date = 2024-08-10T22:40:08-07:00
 draft = false
 slug = "moving-to-hugo"
-summary = "I am once again migrating blog engines. This time to Hugohttps://gohugo.io/ on GitHub Pages."
+summary = "I am once again migrating blog engines. This time to Hugo on GitHub Pages."
 tags = ["meta"]
 featured_image = "images/hugo-logo-wide.svg"
 +++
