@@ -1,7 +1,7 @@
 +++
-title = '2024 08 10 Moving to Hugo'
+title = 'Moving to Hugo'
 date = 2024-08-10T22:40:08-07:00
-draft = true
+draft = false
 slug = "moving-to-hugo"
 +++
 
