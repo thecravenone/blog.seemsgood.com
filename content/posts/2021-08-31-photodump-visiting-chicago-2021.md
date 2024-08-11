@@ -7,6 +7,7 @@ draft = false
 slug = "photodump-visiting-chicago-2021"
 summary = "Photodump of my trip to Chicago, August 2021"
 tags = ["photodump", "food"]
+featured_image = "/images/chicago-132.jpeg"
 +++
 
 ![](/images/chicago-1.jpeg) First view of the city from the orange line
