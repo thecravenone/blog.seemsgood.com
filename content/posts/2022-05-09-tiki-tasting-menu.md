@@ -5,6 +5,8 @@ date = 2022-05-09T23:16:27Z
 draft = false
 slug = "tiki-tasting-menu"
 summary = "I recently hosted an introduction to Tiki party. This is the menu for that evening."
+categories = ["drinks"]
+tags = ["drinks", "food"]
 +++
 
 # Overture: Cuba Libre

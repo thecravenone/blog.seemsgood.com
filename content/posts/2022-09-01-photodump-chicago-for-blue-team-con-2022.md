@@ -1,12 +1,12 @@
 +++
 title = "Photodump: Chicago for Blue Team Con 2022"
 author = "Sam Craven"
-categories = ["photodump", "travel"]
 date = 2022-09-01T00:54:39Z
 draft = false
 slug = "photodump-chicago-for-blue-team-con-2022"
 summary = "Photodump of my trip to Chicago for Blue Team Con 2022"
-tags = ["photodump", "food"]
+categories = ["photodump", "travel"]
+tags = ["chicago", "food", "photodump", "travel"]
 featured_image = "images/IMG_4092.jpeg"
 +++
 

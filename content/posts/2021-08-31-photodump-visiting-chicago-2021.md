@@ -1,12 +1,12 @@
 +++
 title = "Photodump: Visiting Chicago 2021"
 author = "Sam Craven"
-categories = ["photodump", "food", "Chicago"]
 date = 2021-08-31T21:43:53Z
 draft = false
 slug = "photodump-visiting-chicago-2021"
 summary = "Photodump of my trip to Chicago, August 2021"
-tags = ["photodump", "food"]
+categories = ["photodump", "travel"]
+tags = ["chicago", "food", "photodump", "travel"]
 featured_image = "/images/chicago-132.jpeg"
 +++
 

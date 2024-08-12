@@ -1,12 +1,13 @@
 +++
 title = "Automating My Todo with Trello and AWS SNS"
 author = "Sam Craven"
-categories = ["tech", "python"]
 date = 2021-08-14T18:28:04Z
 draft = false
-featured_image = "/images/trello_sns.png"
 slug = "automating-my-todo-with-trello-and-aws-sns"
+summary = "I've automated the updating of my Trello-based Todo list with some automation and AWS SNS"
+categories = ["tech", "python"]
 tags = ["tech", "python"]
+featured_image = "/images/trello_sns.png"
 +++
 
 A couple years ago, Alice Goldfuss posted [this blog post about how she handles her todo list with GitHub's Kanban feature and Twilio](https://blog.alicegoldfuss.com/automating-my-todo/). I really liked the idea and set out to duplicate it. However, I prefer Trello and since most of my projects are already on AWS, I wanted to use their [Simple Notification Service](https://aws.amazon.com/sns/) to send the text messages.
