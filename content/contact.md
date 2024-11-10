@@ -5,6 +5,7 @@ slug = "Contact"
 summary = "Sam Craven's Contact Information"
 categories = ["meta"]
 tags = ["meta"]
+aliases = ["/twitter-profile"]
 #featured_image = "/images/"
 +++
 
