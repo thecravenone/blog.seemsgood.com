@@ -8,7 +8,7 @@ slug = "24-pictures-from-2024-with-captions"
 summary = "Twenty-four pictures from my 2024"
 categories = ["photodump"]
 tags = ["photodump", "year in review"]
-featured_image = "/images/24-in-24-05.jpg"
+featured_image = "/images/24-in-24-04.jpg"
 +++
 
 Bringing back my tradition of a year-in-review photos post. Previous years: [2019](../nineteen-pictures-from-2019/), [2020](../twenty-pictures-from-2020/)
