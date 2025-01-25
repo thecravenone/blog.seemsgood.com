@@ -2,3 +2,6 @@ baseURL = "https://blog.seemsgood.com/"
 title = "The Blog of Sam Craven"
 author = "Sam Craven"
 theme = 'ananke'
+
+[markup.goldmark.renderer]
+unsafe = true
