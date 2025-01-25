@@ -254,10 +254,7 @@ var indyCircle = new google.maps.Circle({
 });
 ```
 
-
-
-
-<iframe src="https://files.seemsgood.net/ccc-2020-ctf/hunker-map.html" title="Hunker map" width="100%" height="100%"></iframe>
+<iframe src="https://files.seemsgood.net/ccc-2020-ctf/hunker-map.html" title="Hunker map" width="100%" height="600"></iframe>
 
 I tried a variety of markers and towns around this point. I was most confident in Bükerler, looking similar to the word "bunker" in the clue, but that wasn't it. At this point I'm either guessing at what thing around that spot on the map I'm supposed to input or I'm wrong about what "where we stood" means.
 
