@@ -9,3 +9,7 @@ hugo_stats.json
 
 # macOS
 .DS_Store
+
+# Other things
+/backup/
+/content/posts/000-sample-post.md
