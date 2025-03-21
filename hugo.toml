@@ -2,3 +2,17 @@ baseURL = "https://blog.seemsgood.com/"
 title = "The Blog of Sam Craven"
 author = "Sam Craven"
 theme = 'ananke'
+
+[params]
+recent_posts_number = 5
+featured_image_class = "cover bg-center"
+
+[menus]
+  [[menus.main]]
+    name = 'All posts'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 20
