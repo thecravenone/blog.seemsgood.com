@@ -6,7 +6,7 @@ draft = false
 slug = "Urban-Hike_UW-to-CapHill-2024-12-22"
 summary = "Pictures from today's urban hike from UW to Capitol Hill via the new Montlake Lid"
 categories = ["photodump"]
-tags = ["photodump"]
+tags = ["photodump", "Seattle"]
 featured_image = "/images/IMG_2851.jpg"
 +++
 

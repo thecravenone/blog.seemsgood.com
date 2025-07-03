@@ -6,7 +6,7 @@ draft = false
 slug = "Urban-Hike_UW-to-Ballard-2024-11-14"
 summary = "Pictures from today's urban hike from UW to Ballard"
 categories = ["photodump"]
-tags = ["photodump"]
+tags = ["photodump", "Seattle"]
 featured_image = "//images/hike-2024-11-14-00010.jpg"
 +++
 
