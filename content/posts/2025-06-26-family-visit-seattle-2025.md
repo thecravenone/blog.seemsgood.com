@@ -5,7 +5,7 @@ date = 2025-07-03T14:10:00-07:00
 #PDT -07:00, PST -08:00
 draft = false
 slug = "family-visit-seattle-2025"
-summary = "Photos and itenerary from Sam's parents' June 2025 Seattle visit"
+summary = "Photos and itinerary from Sam's parents' June 2025 Seattle visit"
 categories = ["Travel"]
 tags = ["Seattle", "Travel"]
 featured_image = "/images/family-seattle-2025-pike-place.jpg"
