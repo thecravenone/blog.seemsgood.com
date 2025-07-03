@@ -73,7 +73,7 @@ Finally, we went into the market proper and stopped at [Pike Place Fish Market](
 
 ![](/images/family-seattle-2025-coho-salmon.jpg)
 
-Unfortunatley, an outage meant no train downtown that day.
+Unfortunately, an outage meant no train downtown that day.
 
 Fortunately, that meant we could make one more Capitol Hill stop - at [Dick's Drive In](https://www.ddir.com/) for Huckleberry Kid Cones.
 
