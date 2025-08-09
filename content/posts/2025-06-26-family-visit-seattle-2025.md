@@ -57,7 +57,7 @@ After a long day of being in and out of the car, we headed back to my house wher
 
 # Day 3: Capitol Hill and Market Day
 
-I met my parents in Captiol Hill and dad said he'd like a little snack for breakfast. Cool bookstores were already on the to-do list, so we started at Little Oddfellows inside of [Elliot Bay Book Company](https://www.elliottbaybook.com/). Our next stop was my favorite used book store, [Twice Sold Tales](https://www.twicesoldtales.com/).
+I met my parents in Capitol Hill and dad said he'd like a little snack for breakfast. Cool bookstores were already on the to-do list, so we started at Little Oddfellows inside of [Elliot Bay Book Company](https://www.elliottbaybook.com/). Our next stop was my favorite used book store, [Twice Sold Tales](https://www.twicesoldtales.com/).
 
 We headed into downtown, starting at [Waterfront Park](https://waterfrontparkseattle.org/the-park/). Usually this would include a walk along much of the waterfront but it was a grey day with nothing happening on Pier 62, so we headed for some shopping.
 
