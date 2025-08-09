@@ -21,11 +21,11 @@ I had begun to decaffeinate so we made a quick pit stop at [Cafe Allegro](https:
 
 From The Ave, we meandered across the UW campus toward the UW train station. While it was no [Cherry blossom season](/images/24-in-24-06.jpg), the walk across campus is always cool, and especially beautiful when things are in bloom.
 
-![](/images/family-seattle-2025-uw.jpg)
+[![](/images/family-seattle-2025-uw.jpg)](/images/family-seattle-2025-uw.jpg)
 
 Mom had requested we go to [Chihuly Garden and Glass](https://www.chihulygardenandglass.com/), so from UW we took the train to Westlake and then the Monorail into Seattle Center. Chilhuly is a bit short and a bit pricey but they had a live demo of glass blowing which really amplified the experience.
 
-![](/images/family-seattle-2025-chihuly.jpg)
+[![](/images/family-seattle-2025-chihuly.jpg)](/images/family-seattle-2025-chihuly.jpg)
 
 Mom's other request for this visit was [The Spheres](https://www.seattlespheres.com/). Unfortunately, I'd forgotten to make a reservation so we simply walked by on our way toward Westlake.
 
@@ -37,11 +37,11 @@ We finished with dinner at one of my favorite spots in Capitol Hill, the rooftop
 
 We started the day by driving out to [Snoqualmie Falls](https://www.snoqualmiefalls.com/). This is an easy, pleasant drive. A couple tips: First, just turn right into the free parking lot. It's only a few hundred extra feet of walking and there's probably no parking in the paid lot anyway. Second, while the walk to the bottom of the falls isn't long, they're not joking when they say that it's steep.
 
-![](/images/family-seattle-2025-snoqualmiefalls.jpg)
+[![](/images/family-seattle-2025-snoqualmiefalls.jpg)](/images/family-seattle-2025-snoqualmiefalls.jpg)
 
 From there, we headed to Seattle's most iconic view, [Kerry Park](https://seattle.gov/parks/allparks/kerry-park). While it's not particularly close to most of the things tourists will want to do, if you've got a car, I defeinitely recommend it. On a clear day, [you can even see Mt. Rainier](/images/24-in-24-13.jpg)!
 
-![](/images/family-seattle-2025-kerry-park.jpg)
+[![](/images/family-seattle-2025-kerry-park.jpg)](/images/family-seattle-2025-kerry-park.jpg)
 
 Leaving Queen Anne, we crossed the Ballard Bridge into Ballard. If you're into beer, really, just head to 14th between Market and Leary and walk into the first place that looks interesting.
 
@@ -51,7 +51,7 @@ Normally from here I'd park near the [Freemont Troll](https://fremont.com/troll/
 
 Closure chaos didn't stretch further than those few blocks so we were still able to get to [Gas Works Park](https://www.seattle.gov/parks/allparks/gas-works-park). In addition to seeing the park, we got to see float planes taking off and landing, sailboats darting around the lake, and even a hot tub boat.
 
-![](/images/family-seattle-2025-gas-works.jpg)
+[![](/images/family-seattle-2025-gas-works.jpg)](/images/family-seattle-2025-gas-works.jpg)
 
 After a long day of being in and out of the car, we headed back to my house where I'd prepared a massive steak and veggies.
 
@@ -67,11 +67,11 @@ And now, time for some seafood.
 
 First, a quick snack at [Emmet Watson's Oyster Bar](https://www.emmettwatsons.com/). This is one of my favorite hidden spots around the market. Pike Place is an ocean of people this time of year but once you find your way into the building, there's a bit of calm served up with the cheapest oysters I've ever had in Seattle. It's a bit hidden, so my best recommendation for finding it is simply to watch the video on the front page of the website.
 
-![](/images/family-seattle-2025-oysters.jpg)
+[![](/images/family-seattle-2025-oysters.jpg)](/images/family-seattle-2025-oysters.jpg)
 
 Finally, we went into the market proper and stopped at [Pike Place Fish Market](https://www.pikeplacefish.com/) for a beautiful piece of Copper River Coho Salmon. This is one of my favorite things to do with out-of-towners. Where else can you buy the freshest salmon in the world, hop on a train, and be grilling it half an hour later!?
 
-![](/images/family-seattle-2025-coho-salmon.jpg)
+[![](/images/family-seattle-2025-coho-salmon.jpg)](/images/family-seattle-2025-coho-salmon.jpg)
 
 Unfortunately, an outage meant no train downtown that day.
 
