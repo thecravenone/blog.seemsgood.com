@@ -6,8 +6,8 @@ date = 2025-01-25T13:35:00-08:00
 draft = false
 slug = "installing-old-versions-with-homebrew"
 summary = "Updating Hugo broke my blog! Let's address this issue by using Homebrew to reinstall the old working version."
-categories = ["tech"]
-tags = ["tech"]
+categories = ["tech", "meta"]
+tags = ["tech", "meta"]
 featured_image = "/images/brew_rewind.jpg"
 +++
 
