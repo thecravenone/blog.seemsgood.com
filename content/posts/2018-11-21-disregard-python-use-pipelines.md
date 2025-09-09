@@ -6,7 +6,7 @@ draft = false
 slug = "disregard-python-use-pipelines"
 summary = "Your terminal gives you access to tons of small, powerful tools. These can easily be chained together, allowing you to write short programs very quickly. Use them!"
 categories = ["tech"]
-tags = ["one liner"]
+tags = ["tech", "one liner"]
 featured_image = "/images/NWO-Pumpe3.JPG"
 +++
 
