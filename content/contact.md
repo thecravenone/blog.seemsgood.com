@@ -18,4 +18,4 @@ Find me on Signal for more immediate response
 This page lives at [seemsgood.lol](https://seemsgood.lol)   
 Blog: [blog.seemsgood.com](https://blog.seemsgood.com)   
 Resume: [HireSamCraven.com](https://HireSamCraven.com)  
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/email-sam-at-seemsgood-dot-com/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/SamCravenSecurity/)
