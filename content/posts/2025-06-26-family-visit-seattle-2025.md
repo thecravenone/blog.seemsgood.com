@@ -9,6 +9,7 @@ summary = "Photos and itinerary from Sam's parents' June 2025 Seattle visit"
 categories = ["Travel"]
 tags = ["Seattle", "Travel"]
 featured_image = "/images/family-seattle-2025-pike-place.jpg"
+images = ["/images/family-seattle-2025-pike-place.jpg"]
 +++
 
 # Day 1: Train Day

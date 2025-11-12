@@ -9,6 +9,7 @@ summary = "Visiting The Flying Heritage & Combat Armor Museum"
 categories = ["photodump"]
 tags = ["photodump", "Seattle"]
 featured_image = "/images/IMG_4721.jpg"
+images = ["/images/IMG_4721.jpg"]
 +++
 
 [![](/images/IMG_4720.jpg)](/images/IMG_4720.jpg)

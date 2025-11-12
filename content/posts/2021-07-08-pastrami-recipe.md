@@ -8,6 +8,7 @@ summary = "My oft-requested recipe/method for making pastrami"
 categories = ["food"]
 tags = ["cooking", "food"]
 featured_image = "/images/pastrami-1.jpeg"
+images = ["/images/pastrami-1.jpeg"]
 +++
 
 

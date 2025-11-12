@@ -8,6 +8,7 @@ summary = "Your terminal gives you access to tons of small, powerful tools. Thes
 categories = ["tech"]
 tags = ["tech", "one liner"]
 featured_image = "/images/NWO-Pumpe3.JPG"
+images = ["/images/NWO-Pumpe3.JPG"]
 +++
 
 # Preface

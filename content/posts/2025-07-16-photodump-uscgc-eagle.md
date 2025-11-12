@@ -9,6 +9,7 @@ summary = "One of two sailing vessels left in the US military, the USCGC Eagle s
 categories = ["photodump"]
 tags = ["photodump", "seattle"]
 featured_image = "/images/IMG_4468.jpg"
+images = ["/images/IMG_4468.jpg"]
 +++
 
 One of two sailing vessels left in the US military, the USCGC Eagle stopped in Seattle last week and was available for tour. Here's some pictures from my visit!

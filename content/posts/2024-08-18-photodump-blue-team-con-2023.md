@@ -8,6 +8,7 @@ summary = "Photodump of my trip to Chicago for Blue Team Con 2023"
 categories = ["photodump", "travel"]
 tags = ["chicago", "food", "photodump", "travel"]
 featured_image = "/images/blueteamcon2023-108.jpeg"
+images = ["/images/blueteamcon2023-108.jpeg"]
 +++
 
 ![](/images/blueteamcon2023-01.jpeg)

@@ -7,6 +7,7 @@ summary = "My writeup on my successes and, uh, learning opportunities from the 2
 categories = ["tech", "ctf"]
 tags = ["tech", "ctf"]
 featured_image = "/images/CCC_2020_CTF_header.png"
+images = ["/images/CCC_2020_CTF_header.png"]
 +++
 
 

@@ -8,6 +8,7 @@ summary = "A tale of my best Magic: The Gathering judge call"
 categories = ["MTG"]
 tags = []
 featured_image = "/images/gavel.png"
+images = ["/images/gavel.png"]
 +++
 
 # Preface

@@ -8,6 +8,7 @@ summary = "Pictures from today's adventure walking to Queen Anne Beer Hall and G
 categories = ["photodump"]
 tags = ["photodump", "Seattle"]
 featured_image = "/images/IMG_2910.jpg"
+images = ["/images/IMG_2910.jpg"]
 +++
 
 [![](/images/IMG_2900.jpg)](/images/IMG_2900.jpg)
