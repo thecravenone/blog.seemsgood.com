@@ -8,6 +8,7 @@ summary = "I've automated the updating of my Trello-based Todo list with some au
 categories = ["tech", "python"]
 tags = ["tech", "python"]
 featured_image = "/images/trello_sns.png"
+images = ["/images/trello_sns.png"]
 +++
 
 A couple years ago, Alice Goldfuss posted [this blog post about how she handles her todo list with GitHub's Kanban feature and Twilio](https://blog.alicegoldfuss.com/automating-my-todo/). I really liked the idea and set out to duplicate it. However, I prefer Trello and since most of my projects are already on AWS, I wanted to use their [Simple Notification Service](https://aws.amazon.com/sns/) to send the text messages.

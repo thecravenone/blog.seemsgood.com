@@ -8,6 +8,7 @@ slug = "moving-to-hugo"
 summary = "I am once again migrating blog engines. This time to Hugo on GitHub Pages."
 tags = ["meta"]
 featured_image = "images/hugo-logo-wide.svg"
+images = ["images/hugo-logo-wide.svg"]
 +++
 
 I am once again migrating blog engines. This time to [Hugo](https://gohugo.io/) on [GitHub Pages](https://pages.github.com/).

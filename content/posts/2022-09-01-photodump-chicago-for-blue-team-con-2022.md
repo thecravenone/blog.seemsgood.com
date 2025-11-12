@@ -8,6 +8,7 @@ summary = "Photodump of my trip to Chicago for Blue Team Con 2022"
 categories = ["photodump", "travel"]
 tags = ["chicago", "food", "photodump", "travel"]
 featured_image = "images/IMG_4092.jpeg"
+images = ["images/IMG_4092.jpeg"]
 +++
 
 ![](/images/IMG_3837.jpeg) First time Tavern Style Pizza (Pat's)

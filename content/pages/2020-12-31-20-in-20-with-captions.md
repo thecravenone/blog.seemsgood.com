@@ -9,6 +9,7 @@ summary = "Twenty pictures from my 2020 - this time with captions."
 categories = ["photodump"]
 tags = ["photodump", "year in review"]
 featured_image = "/images/20-in-20-14.jpg"
+images = ["/images/20-in-20-14.jpg"]
 +++
 
 

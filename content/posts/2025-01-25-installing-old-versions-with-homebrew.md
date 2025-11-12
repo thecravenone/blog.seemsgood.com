@@ -9,6 +9,7 @@ summary = "Updating Hugo broke my blog! Let's address this issue by using Homebr
 categories = ["tech", "meta"]
 tags = ["tech", "meta"]
 featured_image = "/images/brew_rewind.jpg"
+images = ["/images/brew_rewind.jpg"]
 +++
 
 To skip the back story click [[HERE]](#installing-an-old-version).

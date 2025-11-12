@@ -8,6 +8,7 @@ slug = "17-august-2017-single-match-report"
 summary = "I had a funny match yesterday. Here's the story."
 tags = ["MTG"]
 featured_image = "/images/portents.jpg"
+images = ["/images/portents.jpg"]
 +++
 
 

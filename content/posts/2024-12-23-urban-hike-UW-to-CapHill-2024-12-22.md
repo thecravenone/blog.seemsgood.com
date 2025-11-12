@@ -8,6 +8,7 @@ summary = "Pictures from today's urban hike from UW to Capitol Hill via the new 
 categories = ["photodump"]
 tags = ["photodump", "Seattle"]
 featured_image = "/images/IMG_2851.jpg"
+images = ["/images/IMG_2851.jpg"]
 +++
 
 [![](/images/IMG_2844.jpg)](/images/IMG_2844.jpg)

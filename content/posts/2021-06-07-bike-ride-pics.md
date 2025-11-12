@@ -8,6 +8,7 @@ summary = "Photos from bike ride yesterday, 2021-06-05."
 categories = ["photodump"]
 tags = ["cycling", "houston", "photodump"]
 featured_image = "/images/IMG_8485.JPEG"
+images = ["/images/IMG_8485.JPEG"]
 +++
 
 ![](/images/IMG_8470.JPEG)

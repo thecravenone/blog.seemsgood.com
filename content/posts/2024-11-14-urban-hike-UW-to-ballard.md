@@ -8,6 +8,7 @@ summary = "Pictures from today's urban hike from UW to Ballard"
 categories = ["photodump"]
 tags = ["photodump", "Seattle"]
 featured_image = "//images/hike-2024-11-14-00010.jpg"
+images = ["//images/hike-2024-11-14-00010.jpg"]
 +++
 
 Click to embiggen:

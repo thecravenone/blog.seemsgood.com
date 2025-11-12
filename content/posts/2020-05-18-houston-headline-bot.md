@@ -8,6 +8,7 @@ summary = "A while back, the mods of /r/Houston implemented a rule prohibiting \
 categories = ["tech", "python", "reddit"]
 tags = ["tech", "python", "reddit"]
 featured_image = "/images/rHouston-3.png"
+images = ["/images/rHouston-3.png"]
 +++
 
 

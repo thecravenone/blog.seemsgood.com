@@ -8,6 +8,7 @@ summary = "Pictures from Saturday's visit to the UW Greenhouse"
 categories = ["photodump"]
 tags = ["photodump", "seattle"]
 featured_image = "/images/greenhouse-04.jpeg"
+images = ["/images/greenhouse-04.jpeg"]
 +++
 
 [![](/images/greenhouse-01.jpeg)](/images/greenhouse-01.jpeg)
