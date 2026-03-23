@@ -20,7 +20,7 @@ This method is an amalgamation of several methods and recipes. Most notably, I t
 
 # Step 1 Corned Beef
 
-You may skip this entire step by simply purchasing corned beef. A local deli, especially a Jewish deli, should be able to assist. I find grocery stores are hit-or-miss but will almost certainly have corned beef available in the week or so prior to St. Patrick's Day. If you've got the space, feel free to stock up - corned beef freezes well.
+You may skip this entire step by simply purchasing corned beef. A local deli should be able to assist. I find grocery stores are hit-or-miss but will almost certainly have corned beef available in the week or so prior to St. Patrick's Day. If you've got the space, feel free to stock up - corned beef freezes well.
 
 ## Step 1.1 Cure
 
@@ -28,11 +28,11 @@ The following measurements are for 5lbs of beef. Use whatever cut you like; it's
 
 ![](/images/pastrami-21.jpeg)
 
-Traditionally, the cure would be done in a large volume of liquid. This method is more space efficient but requires that you be able to wrestle your beef into a vacuum bag. If you're doing brisket, I _strongly_ recommend splitting it into the flat and point before curing.
+Traditionally, the cure would be done in a large volume of liquid. My method is more space efficient but requires that you be able to wrestle your beef into a vacuum bag. If you're doing brisket, I _strongly_ recommend splitting it into the flat and point before curing.
 
 If you have trouble finding pink curing salt (aka Insta Cure #1 aka Prague Powder #1) in the grocery store, check the hunting section of sporting stores. It's used for homemade sausage, so is often found with the processing gear. It may also be ordered in bulk from any number of sellers online.
 
-Most kitchen scales are only accurate ±1.5g . If you're not making very much, I recommend getting an herb scale. You can probably save some money by getting one at a headshop instead of ordering online.
+Most kitchen scales are only accurate ±1.5g . If you're not making very much, I recommend getting an herb scale. You can probably save some money by getting one at a smoke shop instead of ordering online.
 
 **Cure**   
 * 100g Kosher salt
@@ -68,7 +68,7 @@ Exactly how long to cure will depend on your cut of beef. I've found that a bris
 
 Remove the beef from the vacuum bag(s). It should be noticeably firmer. Thoroughly rinse all surfaces of the beef until no spices are left clinging to it.
 
-**Do not do this step in your sink!** Your disposal will almost certainly not be able to handle all those whole spices. I do the rinsing in a stock pot, occasionally straining out whole spices and refreshing the water.
+**Do not do this step in your sink!** Your garbage disposal will almost certainly not be able to handle all those whole spices. I do the rinsing in a stock pot, occasionally straining out whole spices and refreshing the water.
 
 ## Step 1.3 Cook the corned beef
 
