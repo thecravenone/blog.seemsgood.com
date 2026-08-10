@@ -1,7 +1,7 @@
 +++
 title = "Sam's Podcast Recommendations"
 author = "Sam Craven"
-date = 2025-10-28T18:00:00-07:00
+#date = 2025-10-28T18:00:00-07:00
 #PDT -07:00, PST -08:00
 draft = false
 slug = "podcast-recommendations"
@@ -61,34 +61,6 @@ These are podcast that tell a complete story. Otherwise-ended podcasts in the ch
 
 # Changelog
 
-## 2018-05-10
-
-* Initial post
-
-## 2018-07-27
-
-* Additional descriptions added
-* Categorized some uncategorized things
-* Sorting added.
-
-## 2019-08-10
-
-* Removed [So Many Insane Plays](http://mtgcast.com/?s=So+Many+Insane+Plays) - No longer listening
-* Removed [JudgeCast](http://judgecast.com/) - No longer listening
-* Removed section **Magic: The Gathering** - No podcasts remained in this section
-* Removed [Les is More](https://www.theplayerstribune.com/en-us/articles/les-is-more-podcast) - Podcast no longer occurring
-* Removed [Here's The Thing with Alec Baldwin](https://www.wnycstudios.org/shows/heresthething) - No longer listening
-* Added section **Podcasts that completed their run**
-* Added [The Dropout](https://abcradio.com/podcasts/the-dropout/)
-* Added [Missing Richard Simmons](https://www.stitcher.com/podcast/missing-richard-simmons)
-* Further categorizing and sorting
-
-## 2020-03-07
-
-* Removed [The Daily](https://www.nytimes.com/podcasts/the-daily) - No longer listening, getting news from other sources.
-* Removed [Regular Car Reviews Podcast](http://shoutengine.com/RegularCarReviewsPodcast/) - No longer listening.
-* Added [WeCrashed: The Rise and Fall of WeWork](https://wondery.com/shows/we-crashed/)
-
 ## 2025-10-15
 
 * Removed [What Trump Can Teach Us About Con Law](https://trumpconlaw.com/) - No longer listening
@@ -104,6 +76,34 @@ These are podcast that tell a complete story. Otherwise-ended podcasts in the ch
 * Added Darknet Diaries
 * Added Screaming in the Cloud
 * Various formatting adjustments
+
+## 2020-03-07
+
+* Removed [The Daily](https://www.nytimes.com/podcasts/the-daily) - No longer listening, getting news from other sources.
+* Removed [Regular Car Reviews Podcast](http://shoutengine.com/RegularCarReviewsPodcast/) - No longer listening.
+* Added [WeCrashed: The Rise and Fall of WeWork](https://wondery.com/shows/we-crashed/)
+
+## 2019-08-10
+
+* Removed [So Many Insane Plays](http://mtgcast.com/?s=So+Many+Insane+Plays) - No longer listening
+* Removed [JudgeCast](http://judgecast.com/) - No longer listening
+* Removed section **Magic: The Gathering** - No podcasts remained in this section
+* Removed [Les is More](https://www.theplayerstribune.com/en-us/articles/les-is-more-podcast) - Podcast no longer occurring
+* Removed [Here's The Thing with Alec Baldwin](https://www.wnycstudios.org/shows/heresthething) - No longer listening
+* Added section **Podcasts that completed their run**
+* Added [The Dropout](https://abcradio.com/podcasts/the-dropout/)
+* Added [Missing Richard Simmons](https://www.stitcher.com/podcast/missing-richard-simmons)
+* Further categorizing and sorting
+
+## 2018-07-27
+
+* Additional descriptions added
+* Categorized some uncategorized things
+* Sorting added.
+
+## 2018-05-10
+
+* Initial post
 
 ---
 
