@@ -5,8 +5,8 @@ date = 2024-12-29T21:45:00-08:00
 draft = false
 slug = "Adventure-2024-12-29"
 summary = "Pictures from today's adventure walking to Queen Anne Beer Hall and Grabbing a Cocktail in Capitol hill"
-categories = ["photodump"]
-tags = ["photodump", "Seattle"]
+categories = ["Urban Hike"]
+tags = ["photodump", "Seattle", "Urban hike"]
 featured_image = "/images/IMG_2910.jpg"
 images = ["/images/IMG_2910.jpg"]
 +++
