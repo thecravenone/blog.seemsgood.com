@@ -7,7 +7,7 @@ draft = false
 slug = "hiking-the-link-03"
 summary = "Hiking off the Seattle Link, I go from Roosevelt to U District via Ravenna Park, The Burke-Gilman Trail, and the Union Bay Natural Area"
 categories = ["Urban hike"]
-tags = ["photodump", "seattle", "Urban hike"]
+tags = ["photodump", "seattle", "Urban hike", "Hiking the Link"]
 featured_image = "/images/2026-11-05-26.jpg"
 images = ["/images/2026-11-05-26.jpg"]
 +++

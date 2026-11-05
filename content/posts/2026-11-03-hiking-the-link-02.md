@@ -7,7 +7,7 @@ draft = false
 slug = "hiking-the-link-02"
 summary = "Hiking off the Seattle Link, I go from Capitol Hill to International District via Denny, 6th, 4th, and 2nd"
 categories = ["Urban hike"]
-tags = ["photodump", "seattle", "Urban hike"]
+tags = ["photodump", "seattle", "Urban hike", "Hiking the Link"]
 featured_image = "/images/2026-11-02-10.jpg"
 images = ["/images/2026-11-02-10.jpg"]
 +++

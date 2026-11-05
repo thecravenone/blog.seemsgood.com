@@ -7,7 +7,7 @@ draft = false
 slug = "hiking-the-link-01"
 summary = "Hiking off the Seattle Link, I go from Pinehurst to Shoreline South via Jackson Park, Hamlin Park, and the Paramount Open Space"
 categories = ["Urban hike"]
-tags = ["photodump", "seattle", "Urban hike"]
+tags = ["photodump", "seattle", "Urban hike", "Hiking the Link"]
 featured_image = "/images/2026-11-01-02.jpg"
 images = ["/images/2026-11-01-02.jpg"]
 +++
