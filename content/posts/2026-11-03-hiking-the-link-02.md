@@ -5,14 +5,14 @@ date = 2026-11-03T14:15:00-08:00
 #PDT -07:00 (SUMMER), PST -08:00
 draft = false
 slug = "hiking-the-link-02"
-summary = "Hiking off the Seattle Link, I go from Capitol Hill to International District via Denny, 4th, and 2nd"
+summary = "Hiking off the Seattle Link, I go from Capitol Hill to International District via Denny, 6th, 4th, and 2nd"
 categories = ["Urban hike"]
 tags = ["photodump", "seattle", "Urban hike"]
 featured_image = "/images/2026-11-02-10.jpg"
 images = ["/images/2026-11-02-10.jpg"]
 +++
 
-Yesterday's urban hike was 4.12 miles from Capitol Hill to International District via Denny, 4th, and 2nd
+Yesterday's urban hike was 4.12 miles from Capitol Hill to International District via Denny, 6th, 4th, and 2nd
 
 [![](/images/2026-11-02-map.jpg)](/images/2026-11-02-map.jpg)
 
