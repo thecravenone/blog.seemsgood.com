@@ -12,7 +12,7 @@ featured_image = "/images/2026-11-12-08.jpg"
 images = ["/images/2026-11-12-08.jpg"]
 +++
 
-Today's urban hike was 5.6 miles from U District to Westlake via the University Bridge, the south side of Lake Union, and Westlake.
+Today's urban hike was 6.1 miles from U District to Westlake via the University Bridge, the south side of Lake Union, and Westlake.
 
 [![](/images/2026-11-12-map.jpg)](/images/2026-11-12-map.jpg)
 
