@@ -5,14 +5,14 @@ date = 2026-11-16T17:20:00-08:00
 #PDT -07:00 (SUMMER), PST -08:00
 draft = false
 slug = "hiking-the-link-07"
-summary = "Hiking off the Seattle Link, I go from East Main to South Bellevue via The Bellevue Botanical Gardens, Wilburton Park, and Mercer Slough Nature Park."
+summary = "Hiking off the Seattle Link, I go from East Main to South Bellevue via The Bellevue Botanical Garden, Wilburton Park, and Mercer Slough Nature Park."
 categories = ["Urban hike"]
 tags = ["photodump", "seattle", "Urban hike", "Hiking the Link"]
 featured_image = "/images/2026-11-16-25.jpg"
 images = ["/images/2026-11-16-25.jpg"]
 +++
 
-Today's urban hike was 4.4 miles from East Main to South Bellevue via The Bellevue Botanical Gardens, Wilburton Park, and Mercer Slough Nature Park.
+Today's urban hike was 4.4 miles from East Main to South Bellevue via The Bellevue Botanical Garden, Wilburton Park, and Mercer Slough Nature Park.
 
 [![](/images/2026-11-16-map.jpg)](/images/2026-11-16-map.jpg)
 
