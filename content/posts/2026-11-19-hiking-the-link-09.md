@@ -8,8 +8,8 @@ slug = "hiking-the-link-09"
 summary = "Hiking off the Seattle Link, I go from University of Washington to Capitol Hill via Washington Park Arboretum, Galer Street, and Volunteer Park."
 categories = ["Urban hike"]
 tags = ["photodump", "seattle", "Urban hike", "Hiking the Link"]
-featured_image = "/images/2026-11-19-01.jpg"
-images = ["/images/2026-11-19-01.jpg"]
+featured_image = "/images/2026-11-19-26.jpg"
+images = ["/images/2026-11-19-26.jpg"]
 +++
 
 Yesterday's urban hike was a 7.7 miles from University of Washington to Capitol Hill via Washington Park Arboretum, Galer Street, and Volunteer Park.
