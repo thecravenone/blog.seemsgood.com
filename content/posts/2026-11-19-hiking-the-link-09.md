@@ -12,7 +12,7 @@ featured_image = "/images/2026-11-19-26.jpg"
 images = ["/images/2026-11-19-26.jpg"]
 +++
 
-Yesterday's urban hike was a 7.7 miles from University of Washington to Capitol Hill via Washington Park Arboretum, Galer Street, and Volunteer Park.
+Yesterday's urban hike was 7.7 miles from University of Washington to Capitol Hill via Washington Park Arboretum, Galer Street, and Volunteer Park.
 
 [![](/images/2026-11-19-map.jpg)](/images/2026-11-19-map.jpg)
 
